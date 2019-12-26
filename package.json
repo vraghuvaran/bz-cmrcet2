@@ -1,0 +1,22 @@
+{
+  "name": "bz-cmrcet2",
+  "version": "1.0.0",
+  "description": "CMRCET",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vraghuvaran/bz-cmrcet2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vraghuvaran/bz-cmrcet2/issues"
+  },
+  "homepage": "https://github.com/vraghuvaran/bz-cmrcet2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
